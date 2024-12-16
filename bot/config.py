@@ -1,4 +1,4 @@
-import telebot
+TOKEN = "7826666194:AAFvegDbs40plKk6CyFzvc-tieX4wEIEp2U"
+DB_PATH = "jobs.db"
 
-bot = telebot.TeleBot('7826666194:AAFvegDbs40plKk6CyFzvc-tieX4wEIEp2U')
 
